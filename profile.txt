@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gajula Anjani | Resume</title>
+</head>
+
+<body>
+
+<center>
+    <h1>GAJULA ANJANI</h1>
+    <p>
+        Email: anjanigajula014@gmail.com |
+        Mobile: 9573295125<br>
+        LinkedIn: linkedin.com/in/anjani-gajula-552219339
+    </p>
+</center>
+
+<hr>
+
+<h3>CAREER OBJECTIVE</h3>
+<p>
+    Motivated Electronics and Communication Engineering student with a strong
+    interest in web development. Currently learning HTML and building my first
+    web projects. I have basic knowledge of C and Python and aspire to become
+    a Full Stack Developer by continuously learning modern web technologies.
+</p>
+
+<hr>
+
+<h3>EDUCATION</h3>
+<ul>
+    <li>
+        <strong>Bachelor of Technology (B.Tech) – Electronics and Communication Engineering</strong><br>
+        Seshadri Rao Gudlavalleru Engineering College<br>
+        Currently Pursuing (3rd Year)
+    </li>
+    <br>
+    <li>
+        <strong>Diploma – Electronics and Communication Engineering</strong><br>
+        State Board of Technical Education<br>
+        Completed
+    </li>
+    <br>
+    <li>
+        <strong>Secondary School Education (SSC)</strong><br>
+        A.A.N.M. & V.V.R.S.R. High School, Gudlavalleru<br>
+        Completed
+    </li>
+</ul>
+
+<hr>
+
+<h3>TECHNICAL SKILLS</h3>
+<ul>
+    <li>HTML (Beginner)</li>
+    <li>C Programming</li>
+    <li>Python (Basic)</li>
+    <li>Forms and Tables in HTML</li>
+</ul>
+
+<hr>
+
+<h3>PROJECTS</h3>
+<ul>
+    <li>
+        <strong>HTML Portfolio Website</strong><br>
+        Designed and developed a personal portfolio using only HTML.
+        Includes sections such as About Me, Skills, Projects, and Contact.
+    </li>
+    <br>
+    <li>
+        <strong>Smart Helmet (Diploma Project)</strong><br>
+        Developed a smart helmet system focused on improving rider safety
+        using embedded system concepts.
+    </li>
+    <br>
+    <li>
+        <strong>Smart Trolley – The Smart Way to Shop (B.Tech CSP)</strong><br>
+        Community Service Project aimed at improving shopping efficiency
+        and reducing manual billing effort.
+    </li>
+</ul>
+
+<hr>
+
+<h3>CERTIFICATIONS & PARTICIPATION</h3>
+<ul>
+    <li>Participated in Technical Quizzes</li>
+    <li>Participated in Paper Presentation Events</li>
+</ul>
+
+<hr>
+
+<h3>SOFT SKILLS</h3>
+<ul>
+    <li>Good Communication Skills</li>
+    <li>Quick Learner</li>
+    <li>Team Player</li>
+    <li>Problem Solving Skills</li>
+</ul>
+
+<hr>
+
+<h3>CAREER INTERESTS</h3>
+<ul>
+    <li>Full Stack Development</li>
+    <li>Frontend Web Development</li>
+    <li>Software Engineering</li>
+</ul>
+
+<hr>
+
+<h3>DECLARATION</h3>
+<p>
+    I hereby declare that the above information is true and correct to the best
+    of my knowledge.
+</p>
+
+<p>
+    Place: ___________<br>
+    Date: ___________<br><br>
+    <strong>Gajula Anjani</strong>
+</p>
+
+</body>
+</html>
+
+
+
+
+
